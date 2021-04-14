@@ -31,4 +31,4 @@ text3.innerHTML=sentence_hard_en;
 text4.innerHTML=sentence_hard_fr;
 }
 create_text();
-document.body.addEventListener("click",create_text);
+document.body.addEventListener("click",create_text); 
